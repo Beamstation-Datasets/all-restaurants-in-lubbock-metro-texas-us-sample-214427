@@ -1,6 +1,6 @@
 # All Restaurants in Lubbock (Metro), Texas, US
 
-> Free BeamStation sample export with 51 rows and masked direct-contact fields.
+> Free BeamStation sample export with 75 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `214427` |
 | Location | Lubbock, TX |
 | Category | Restaurants |
-| Full dataset size | 511 records |
-| Free sample size | 51 records (9.98%) |
-| Last export | 2026-04-21T20:56:19.572617+00:00 |
+| Full dataset size | 757 records |
+| Free sample size | 75 records (9.91%) |
+| Last export | 2026-04-28T22:39:31.374516+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lubbock-metro-texas-us-sample-214427/releases/download/sample-latest/beamstation_214427_restaurants-us-lubbocktx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
